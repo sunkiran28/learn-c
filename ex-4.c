@@ -1,4 +1,4 @@
-// Ex-3
+// Ex-4
 // w.a.p to swap two number without using 3 variable
 #include <stdio.h>
 
@@ -13,4 +13,4 @@ int main(){
     a=a-b;
     printf("new value of a = %d \nnew value of b = %d",a ,b);
     return 0;
-}             
+}
